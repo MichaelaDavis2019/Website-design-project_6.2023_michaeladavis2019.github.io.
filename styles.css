@@ -1,0 +1,107 @@
+body {
+    font-family: "Karla", san-serif;
+    margin: 0 10%;
+}
+
+.container {
+    border: 2px solid darkgray;
+    margin: 12px auto;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.color-section{
+    width: 100%;
+}
+
+.colorblock {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.calm-mint-green {
+    background-color: #00ffb7;
+}
+
+.cool-lilac {
+    background-color: #cbadff;
+}
+
+.pale-salmon {
+    background-color: #f5a17a;
+}
+
+.light-blue-gray {
+    background-color: #92bcf7;
+}
+
+.tan {
+    background-color: #e2cba7;
+}
+
+.deep-navy {
+    color: #fff;
+    background-color: #070066;
+}
+
+.font-panel {
+    display: inline-block;
+    padding: 20px;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+.Karla {
+    font-family: "Karla";
+}
+
+.Montserrat {
+    font-family: "Montserrat";
+}
+
+.Roboto-Condensed {
+    font-family: "Roboto Condensed";
+}
+
+.Ysabeau {
+    font-family: "Ysabeau";
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.Main {
+    font-family: "Montserrat";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.Sub {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Karla";
+}
+
+.Paragraph {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Roboto Condensed";
+}
+
+.Aside {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Ysabeau";
+    font-style: italic;
+}
